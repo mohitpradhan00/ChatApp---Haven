@@ -1,0 +1,6 @@
+
+.codegpt
+node_modules/
+uploads/
+
+build/
